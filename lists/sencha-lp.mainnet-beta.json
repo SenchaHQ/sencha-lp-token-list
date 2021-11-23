@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-11-23T00:59:02.070Z",
+  "timestamp": "2021-11-23T01:20:05.266Z",
   "tokens": [
     {
       "chainId": 101,
@@ -10,7 +10,7 @@
       "symbol": "sRAY-USDC",
       "decimals": 6,
       "name": "Sencha RAY-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/266m5i4PvyqBYooXc1C28xMZ4qPUQzJ9z89Zse8Kg7K1/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/266m5i4PvyqBYooXc1C28xMZ4qPUQzJ9z89Zse8Kg7K1/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -30,7 +30,7 @@
       "symbol": "sPRT-mSOL",
       "decimals": 9,
       "name": "Sencha PRT-mSOL LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/46XybN9eqWxBuCGfHcY2tAo3Bpk8nEdKZmFbDqWDE7YL/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/46XybN9eqWxBuCGfHcY2tAo3Bpk8nEdKZmFbDqWDE7YL/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -50,7 +50,7 @@
       "symbol": "sKIN-USDC",
       "decimals": 6,
       "name": "Sencha KIN-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/4Us9bKkEDqBkyULP6MaTFsdRArVvwBvDYfQv1UoBuFWD/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4Us9bKkEDqBkyULP6MaTFsdRArVvwBvDYfQv1UoBuFWD/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -70,7 +70,7 @@
       "symbol": "sUSDC-FUM",
       "decimals": 9,
       "name": "Sencha USDC-FUM LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/4iq5xuk6aFhsD9xiQCgzcCFYVGH9g6f9do2brD3mz2mA/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4iq5xuk6aFhsD9xiQCgzcCFYVGH9g6f9do2brD3mz2mA/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -90,7 +90,7 @@
       "symbol": "sPOLIS-USDC",
       "decimals": 8,
       "name": "Sencha POLIS-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/53WXyJ255MeQWumdF8bQ73AYKf4L71bNidzi7juux3oa/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/53WXyJ255MeQWumdF8bQ73AYKf4L71bNidzi7juux3oa/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -110,7 +110,7 @@
       "symbol": "sSRM-USDC",
       "decimals": 6,
       "name": "Sencha SRM-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/5P1cZx1aynGSk2F4q2BiAxceKRNA8Usb3u25GLnMtrM1/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/5P1cZx1aynGSk2F4q2BiAxceKRNA8Usb3u25GLnMtrM1/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -130,7 +130,7 @@
       "symbol": "smSOL-stSOL",
       "decimals": 9,
       "name": "Sencha mSOL-stSOL LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/7cSjQTVMJtKmuzFthCPuDm9wPVQxoKcZhZjhgcFY8Pqz/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7cSjQTVMJtKmuzFthCPuDm9wPVQxoKcZhZjhgcFY8Pqz/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -150,7 +150,7 @@
       "symbol": "smSOL-USDC",
       "decimals": 9,
       "name": "Sencha mSOL-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/7rUHCLGt3w3DQUs5BTQ6yh2aT4AbwxvY8dxMoz6VWSij/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7rUHCLGt3w3DQUs5BTQ6yh2aT4AbwxvY8dxMoz6VWSij/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -170,7 +170,7 @@
       "symbol": "sWAG-CRP",
       "decimals": 9,
       "name": "Sencha WAG-CRP LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/8D8GYvPNBQHva8m12cSSyAiTtTGhPX92TmBEwcVvZyE2/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/8D8GYvPNBQHva8m12cSSyAiTtTGhPX92TmBEwcVvZyE2/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -190,7 +190,7 @@
       "symbol": "sETH-USDC",
       "decimals": 6,
       "name": "Sencha ETH-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/9mVNZD6woXAbDHiSQEaU51FqjePiyVjhPMgUudq2vLu6/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/9mVNZD6woXAbDHiSQEaU51FqjePiyVjhPMgUudq2vLu6/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -210,7 +210,7 @@
       "symbol": "sSBR-USDT",
       "decimals": 6,
       "name": "Sencha SBR-USDT LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ANiQnDGWvzFm8V9gRLY8DJ3g1BStDvawGfUmSSxeL4XB/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/ANiQnDGWvzFm8V9gRLY8DJ3g1BStDvawGfUmSSxeL4XB/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -230,7 +230,7 @@
       "symbol": "sLIQ-USDC",
       "decimals": 6,
       "name": "Sencha LIQ-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ATZhKnCURxLM56VosM54rKS4NVKgW8g311gf1ymPdA25/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/ATZhKnCURxLM56VosM54rKS4NVKgW8g311gf1ymPdA25/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -250,7 +250,7 @@
       "symbol": "sSTEP-USDC",
       "decimals": 9,
       "name": "Sencha STEP-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BKg8KJQChMagaooNr26h3yWJDQJxJrhtcDx4juGswdzU/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/BKg8KJQChMagaooNr26h3yWJDQJxJrhtcDx4juGswdzU/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -270,7 +270,7 @@
       "symbol": "sSUNNY-SBR",
       "decimals": 6,
       "name": "Sencha SUNNY-SBR LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BU168umhuC2Vp82uS1rxw3oS96FqqoKoa1xMi1Wz7H4Q/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/BU168umhuC2Vp82uS1rxw3oS96FqqoKoa1xMi1Wz7H4Q/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -290,7 +290,7 @@
       "symbol": "sGRAPE-USDC",
       "decimals": 6,
       "name": "Sencha GRAPE-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BccZvKS5TNZMKswJ9DmFQuqLSZkNH5wmbANm2rnBirjZ/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/BccZvKS5TNZMKswJ9DmFQuqLSZkNH5wmbANm2rnBirjZ/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -310,7 +310,7 @@
       "symbol": "sSUNNY-USDC",
       "decimals": 6,
       "name": "Sencha SUNNY-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/DFwa5hqvx8onwfctB1rm4VjybvVghMSU5SDQp84GLtRU/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/DFwa5hqvx8onwfctB1rm4VjybvVghMSU5SDQp84GLtRU/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -330,7 +330,7 @@
       "symbol": "sUSDC-USDT",
       "decimals": 6,
       "name": "Sencha USDC-USDT LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FKZZ9yHwgHSXgwhq1AcWSFiHKGegzoeLeJqDtNSFjAUd/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/FKZZ9yHwgHSXgwhq1AcWSFiHKGegzoeLeJqDtNSFjAUd/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -350,7 +350,7 @@
       "symbol": "sMER-USDC",
       "decimals": 6,
       "name": "Sencha MER-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Fucjn648JkLme1SWqRwwrMxW6WLv8jYzqa72PrcxCAAe/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/Fucjn648JkLme1SWqRwwrMxW6WLv8jYzqa72PrcxCAAe/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -370,7 +370,7 @@
       "symbol": "sLARIX-USDC",
       "decimals": 6,
       "name": "Sencha LARIX-USDC LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/H3Vw4Dio5eVjGsdLkTeJNyawqj6yb6XQLmGU7jKmP97U/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/H3Vw4Dio5eVjGsdLkTeJNyawqj6yb6XQLmGU7jKmP97U/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -390,7 +390,7 @@
       "symbol": "sSRM-USDT",
       "decimals": 6,
       "name": "Sencha SRM-USDT LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HeD4bbYwrsb5g5ieS2QhXGSFAUDWrrVX5cjm29PAqLic/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/HeD4bbYwrsb5g5ieS2QhXGSFAUDWrrVX5cjm29PAqLic/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -410,7 +410,7 @@
       "symbol": "sCASH-COW",
       "decimals": 6,
       "name": "Sencha CASH-COW LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
@@ -430,7 +430,7 @@
       "symbol": "saSOL-CASH",
       "decimals": 9,
       "name": "Sencha aSOL-CASH LP",
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/jXWR3mBofnAU1Gv4URvYTu3Yedkv7JZA8zHJzxXdzeA/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/jXWR3mBofnAU1Gv4URvYTu3Yedkv7JZA8zHJzxXdzeA/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
         "discord": "https://discord.gg/aF9USSwG33",
