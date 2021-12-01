@@ -181,6 +181,21 @@
   },
   {
     "chainId": 101,
+    "address": "88MismC8Nzz1dzBF8EPGEYABEiTRA3mZXB8QijGETKVQ",
+    "symbol": "sPOLE-USDC",
+    "decimals": 6,
+    "name": "Sencha POLE-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/88MismC8Nzz1dzBF8EPGEYABEiTRA3mZXB8QijGETKVQ/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Pole Aggregator Governance Token and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "8D8GYvPNBQHva8m12cSSyAiTtTGhPX92TmBEwcVvZyE2",
     "symbol": "sWAG-CRP",
     "decimals": 9,
@@ -331,6 +346,21 @@
   },
   {
     "chainId": 101,
+    "address": "Cfe2sKKsN8UGRJdXLtzVNodEyQnAGQTB4zZMKyw8o1eN",
+    "symbol": "sCHEEMS-USDC",
+    "decimals": 6,
+    "name": "Sencha CHEEMS-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cfe2sKKsN8UGRJdXLtzVNodEyQnAGQTB4zZMKyw8o1eN/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Cheems and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "DFwa5hqvx8onwfctB1rm4VjybvVghMSU5SDQp84GLtRU",
     "symbol": "sSUNNY-USDC",
     "decimals": 6,
@@ -342,6 +372,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Sunny Governance Token and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DLrma6LaanMZScsQM4EwbBqF2p1NE1Sg9sANZeWey48n",
+    "symbol": "sRAY-USDT",
+    "decimals": 6,
+    "name": "Sencha RAY-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DLrma6LaanMZScsQM4EwbBqF2p1NE1Sg9sANZeWey48n/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "description": "Sencha LP token between Raydium and USDT"
     }
   },
   {
@@ -451,6 +496,21 @@
   },
   {
     "chainId": 101,
+    "address": "HiCxJLxn5h4XemBPW8gDfMhTTj8kMd1BBjLUqMDaKNFS",
+    "symbol": "sCYS-USDC",
+    "decimals": 6,
+    "name": "Sencha CYS-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HiCxJLxn5h4XemBPW8gDfMhTTj8kMd1BBjLUqMDaKNFS/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Cyclos and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F",
     "symbol": "sCASH-COW",
     "decimals": 6,
@@ -462,6 +522,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
       "description": "Sencha LP token between Cashio Dollar and Cash Cow"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "TjyU3baVpheseW8WC17sCFXsJUZRNCh1nGhku9h5mUn",
+    "symbol": "sAPT-USDC",
+    "decimals": 6,
+    "name": "Sencha APT-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TjyU3baVpheseW8WC17sCFXsJUZRNCh1nGhku9h5mUn/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Apricot and USD Coin"
     }
   },
   {
