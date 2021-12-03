@@ -346,6 +346,21 @@
   },
   {
     "chainId": 101,
+    "address": "BbEM8ck2r54sZghJ8Za2hcx1Vs2NZ32oTuUc7AUxqpjB",
+    "symbol": "sGRAPE-ATLAS",
+    "decimals": 8,
+    "name": "Sencha GRAPE-ATLAS LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BbEM8ck2r54sZghJ8Za2hcx1Vs2NZ32oTuUc7AUxqpjB/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+      "description": "Sencha LP token between Grape and Star Atlas"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "BccZvKS5TNZMKswJ9DmFQuqLSZkNH5wmbANm2rnBirjZ",
     "symbol": "sGRAPE-USDC",
     "decimals": 6,
