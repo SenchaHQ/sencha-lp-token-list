@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-03T00:51:08.312Z",
+  "timestamp": "2021-12-04T00:50:59.789Z",
   "tokens": [
     {
       "chainId": 101,
@@ -242,6 +242,26 @@
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
         ],
         "description": "Sencha LP token between Wrapped SOL and aSOL Aggregate Solana Stake Pool"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7WQvnVb4ifd1v76Rjb3vFsjJb6JXy9BSUzh9Wx1UgDsZ",
+      "symbol": "sBABY-KSOL",
+      "decimals": 9,
+      "name": "Sencha BABY-KSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7WQvnVb4ifd1v76Rjb3vFsjJb6JXy9BSUzh9Wx1UgDsZ/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH/CBPfSGeSf76o3r4628k7BcZ5YBNxHh7hkCzu4AmVgk2Q",
+        "underlyingTokens": [
+          "Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH",
+          "CBPfSGeSf76o3r4628k7BcZ5YBNxHh7hkCzu4AmVgk2Q"
+        ],
+        "description": "Sencha LP token between Baby Samo Coin and KITTYCOIN SOL"
       }
     },
     {
@@ -702,6 +722,26 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "description": "Sencha LP token between Cashio Dollar and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HTok7GKwERfuLDgSf4aDr5efW5EmoDjrJusFL9cW6QEM",
+      "symbol": "sUSDT-GENE",
+      "decimals": 9,
+      "name": "Sencha USDT-GENE LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/HTok7GKwERfuLDgSf4aDr5efW5EmoDjrJusFL9cW6QEM/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
+        "underlyingTokens": [
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz"
+        ],
+        "description": "Sencha LP token between USDT and Genopets"
       }
     },
     {
