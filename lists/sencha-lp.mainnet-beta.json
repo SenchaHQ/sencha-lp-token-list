@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-07T00:54:03.075Z",
+  "timestamp": "2021-12-08T00:54:12.087Z",
   "tokens": [
     {
       "chainId": 101,
@@ -387,9 +387,9 @@
     {
       "chainId": 101,
       "address": "9wMWJ5vBb8SZqvGo2xK436v48PiYC7UUPBLy4n5Rwo9d",
-      "symbol": "sCOPE-9kt9",
+      "symbol": "sCOPE-GOD",
       "decimals": 6,
-      "name": "Sencha COPE-9kt9 LP",
+      "name": "Sencha COPE-GOD LP",
       "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/9wMWJ5vBb8SZqvGo2xK436v48PiYC7UUPBLy4n5Rwo9d/icon.png",
       "extensions": {
         "twitter": "https://twitter.com/SenchaDEX",
@@ -401,7 +401,7 @@
           "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
           "9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6"
         ],
-        "description": "Sencha LP token between COPE and 9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6"
+        "description": "Sencha LP token between COPE and GOD"
       }
     },
     {
