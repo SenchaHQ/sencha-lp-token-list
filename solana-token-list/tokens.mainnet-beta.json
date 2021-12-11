@@ -77,9 +77,9 @@
   {
     "chainId": 101,
     "address": "4CsomP6td9X9rQM3RiXa2E8vwinpRU7hVGhTToWjj6fe",
-    "symbol": "sCASH-wtLUNA",
+    "symbol": "sCASH-LUNA",
     "decimals": 6,
-    "name": "Sencha CASH-wtLUNA LP",
+    "name": "Sencha CASH-LUNA LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4CsomP6td9X9rQM3RiXa2E8vwinpRU7hVGhTToWjj6fe/icon.png",
     "extensions": {
       "twitter": "https://twitter.com/SenchaDEX",
@@ -167,9 +167,9 @@
   {
     "chainId": 101,
     "address": "6EnmjputUoatY19fpXCi7RXpJk3NweqdXJ7mLY4aYgfS",
-    "symbol": "swtUST-CASH",
+    "symbol": "sUST-CASH",
     "decimals": 6,
-    "name": "Sencha wtUST-CASH LP",
+    "name": "Sencha UST-CASH LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EnmjputUoatY19fpXCi7RXpJk3NweqdXJ7mLY4aYgfS/icon.png",
     "extensions": {
       "twitter": "https://twitter.com/SenchaDEX",
@@ -302,9 +302,9 @@
   {
     "chainId": 101,
     "address": "9mVNZD6woXAbDHiSQEaU51FqjePiyVjhPMgUudq2vLu6",
-    "symbol": "sETH-USDC",
+    "symbol": "ssoETH-USDC",
     "decimals": 6,
-    "name": "Sencha ETH-USDC LP",
+    "name": "Sencha soETH-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9mVNZD6woXAbDHiSQEaU51FqjePiyVjhPMgUudq2vLu6/icon.png",
     "extensions": {
       "twitter": "https://twitter.com/SenchaDEX",
@@ -372,6 +372,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
       "description": "Sencha LP token between USD Coin and Dexlab"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "BEfn7GEjr9Vh8mBHVPkntj2tW39zNGFS32fgCDneyXui",
+    "symbol": "sALM-USDC",
+    "decimals": 6,
+    "name": "Sencha ALM-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEfn7GEjr9Vh8mBHVPkntj2tW39zNGFS32fgCDneyXui/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Almond and USD Coin"
     }
   },
   {
@@ -462,6 +477,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Cheems and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "D3ZFHTU3AkXNTjXuAWCqzf1W8BrHEAkHSnCKQohkPngB",
+    "symbol": "sYARD-USDC",
+    "decimals": 9,
+    "name": "Sencha YARD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D3ZFHTU3AkXNTjXuAWCqzf1W8BrHEAkHSnCKQohkPngB/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between SolYard Finance and USD Coin"
     }
   },
   {
