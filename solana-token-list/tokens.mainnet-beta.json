@@ -166,6 +166,21 @@
   },
   {
     "chainId": 101,
+    "address": "68qg4dYU5Q1DpCTjDec4tq1ZSMzRUBpmXrZwTgUNPvDJ",
+    "symbol": "sFROG-FROGG",
+    "decimals": 6,
+    "name": "Sencha FROG-FROGG LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/68qg4dYU5Q1DpCTjDec4tq1ZSMzRUBpmXrZwTgUNPvDJ/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8/CXVZgdAGahKyZaTegfJLq5TwjbJkJdSjM3xJHgnSfH26",
+      "description": "Sencha LP token between FROG and Frog Fork"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "6EnmjputUoatY19fpXCi7RXpJk3NweqdXJ7mLY4aYgfS",
     "symbol": "sUST-CASH",
     "decimals": 6,
@@ -237,6 +252,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Marinade staked SOL (mSOL) and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "838n9DR68cFk8tkSyqSjBU8Jp3LgQxoPZqiDkCG98ouZ",
+    "symbol": "sAPT-CASH",
+    "decimals": 6,
+    "name": "Sencha APT-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/838n9DR68cFk8tkSyqSjBU8Jp3LgQxoPZqiDkCG98ouZ/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Apricot and Cashio Dollar"
     }
   },
   {
@@ -481,6 +511,21 @@
   },
   {
     "chainId": 101,
+    "address": "CiCUp9C9jwvjDjtTeshp5Jq7koosuf5HPrsJgPzTPaDY",
+    "symbol": "sAPT-PAI",
+    "decimals": 6,
+    "name": "Sencha APT-PAI LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CiCUp9C9jwvjDjtTeshp5Jq7koosuf5HPrsJgPzTPaDY/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+      "description": "Sencha LP token between Apricot and PAI (Parrot USD)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "D3ZFHTU3AkXNTjXuAWCqzf1W8BrHEAkHSnCKQohkPngB",
     "symbol": "sYARD-USDC",
     "decimals": 9,
@@ -627,6 +672,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Cashio Dollar and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "HP5kA7SMzDjrjrtn37q9XgGYmqjRN4YhmjykRLU57hTa",
+    "symbol": "sORCA-APT",
+    "decimals": 6,
+    "name": "Sencha ORCA-APT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HP5kA7SMzDjrjrtn37q9XgGYmqjRN4YhmjykRLU57hTa/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
+      "description": "Sencha LP token between Orca and Apricot"
     }
   },
   {
