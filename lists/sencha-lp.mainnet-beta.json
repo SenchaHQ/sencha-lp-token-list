@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-13T00:52:52.692Z",
+  "timestamp": "2021-12-14T00:56:02.352Z",
   "tokens": [
     {
       "chainId": 101,
@@ -162,6 +162,26 @@
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz"
         ],
         "description": "Sencha LP token between USD Coin and FUMoney"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4rnis1P7gAgqjuS6B952LdvgZoZyq4PJgboMHCAreFPp",
+      "symbol": "sALM-USDT",
+      "decimals": 6,
+      "name": "Sencha ALM-USDT LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4rnis1P7gAgqjuS6B952LdvgZoZyq4PJgboMHCAreFPp/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "underlyingTokens": [
+          "ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "description": "Sencha LP token between Almond and USDT"
       }
     },
     {
