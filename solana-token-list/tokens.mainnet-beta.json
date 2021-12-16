@@ -121,6 +121,21 @@
   },
   {
     "chainId": 101,
+    "address": "4ouWhLaau5CCHabeN1QUDgot3BCKGhv94hnuhcxpPELa",
+    "symbol": "sRIN-USDC",
+    "decimals": 9,
+    "name": "Sencha RIN-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ouWhLaau5CCHabeN1QUDgot3BCKGhv94hnuhcxpPELa/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Aldrin and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "4rnis1P7gAgqjuS6B952LdvgZoZyq4PJgboMHCAreFPp",
     "symbol": "sALM-USDT",
     "decimals": 6,
@@ -361,6 +376,21 @@
   },
   {
     "chainId": 101,
+    "address": "9qCyVjDUq5Jh76a5KAVtz8BXxj8fNcXjnDf4yLe5zdAa",
+    "symbol": "sCASH-OOGI",
+    "decimals": 9,
+    "name": "Sencha CASH-OOGI LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9qCyVjDUq5Jh76a5KAVtz8BXxj8fNcXjnDf4yLe5zdAa/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
+      "description": "Sencha LP token between Cashio Dollar and OOGI"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "9wMWJ5vBb8SZqvGo2xK436v48PiYC7UUPBLy4n5Rwo9d",
     "symbol": "sCOPE-GOD",
     "decimals": 6,
@@ -582,6 +612,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "description": "Sencha LP token between Raydium and USDT"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DUmoJAz7pMvam4j24eZo37b47PkrQ3Rh2i8fJ6fT7T6w",
+    "symbol": "ssCASH-9-sUSDC-9",
+    "decimals": 9,
+    "name": "Sencha sCASH-9-sUSDC-9 LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUmoJAz7pMvam4j24eZo37b47PkrQ3Rh2i8fJ6fT7T6w/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "description": "Sencha LP token between Saber Wrapped CASH (9 decimals) and Saber Wrapped USD Coin (9 decimals)"
     }
   },
   {
