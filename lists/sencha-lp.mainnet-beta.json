@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-19T00:57:25.371Z",
+  "timestamp": "2021-12-20T00:54:28.006Z",
   "tokens": [
     {
       "chainId": 101,
@@ -102,6 +102,26 @@
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
         ],
         "description": "Sencha LP token between PRT (Parrot Protocol) and Marinade staked SOL (mSOL)"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "47sYLBP7ZXdVx1SFtfBYqxnF17VwpTeszmPEQKfs6pNy",
+      "symbol": "sMIX-USDC",
+      "decimals": 6,
+      "name": "Sencha MIX-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/47sYLBP7ZXdVx1SFtfBYqxnF17VwpTeszmPEQKfs6pNy/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between MIX and USD Coin"
       }
     },
     {
