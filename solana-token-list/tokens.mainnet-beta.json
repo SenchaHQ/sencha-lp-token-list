@@ -436,6 +436,21 @@
   },
   {
     "chainId": 101,
+    "address": "A9HECM7Yjj8YvR22SfcZcknNRZamk7ZaW9FMEcNNc8Ki",
+    "symbol": "sCASH-daoSOL",
+    "decimals": 9,
+    "name": "Sencha CASH-daoSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9HECM7Yjj8YvR22SfcZcknNRZamk7ZaW9FMEcNNc8Ki/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+      "description": "Sencha LP token between Cashio Dollar and daoSOL Token"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "ANiQnDGWvzFm8V9gRLY8DJ3g1BStDvawGfUmSSxeL4XB",
     "symbol": "sSBR-USDT",
     "decimals": 6,
