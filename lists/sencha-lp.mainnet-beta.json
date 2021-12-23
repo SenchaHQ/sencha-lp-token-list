@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-22T00:55:37.920Z",
+  "timestamp": "2021-12-23T00:53:59.680Z",
   "tokens": [
     {
       "chainId": 101,
@@ -462,6 +462,26 @@
           "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
         ],
         "description": "Sencha LP token between Waggle Network and CropperFinance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8epzoncYWczJojAeQg4c4pgeygtWvYpcCVaRSZMR8oJ4",
+      "symbol": "sCASH-USDT",
+      "decimals": 6,
+      "name": "Sencha CASH-USDT LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/8epzoncYWczJojAeQg4c4pgeygtWvYpcCVaRSZMR8oJ4/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "underlyingTokens": [
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "description": "Sencha LP token between Cashio Dollar and USDT"
       }
     },
     {
