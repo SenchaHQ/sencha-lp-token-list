@@ -856,6 +856,21 @@
   },
   {
     "chainId": 101,
+    "address": "HpvNhPVbRHVFQQFYEMnnBvoLBpGchPiqDjVmyv98Ua19",
+    "symbol": "sCASH-wLDO",
+    "decimals": 8,
+    "name": "Sencha CASH-wLDO LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HpvNhPVbRHVFQQFYEMnnBvoLBpGchPiqDjVmyv98Ua19/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+      "description": "Sencha LP token between Cashio Dollar and Wormhole-wrapped Lido DAO Token"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F",
     "symbol": "sCASH-COW",
     "decimals": 6,
