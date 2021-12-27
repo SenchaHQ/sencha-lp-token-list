@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-26T00:57:17.604Z",
+  "timestamp": "2021-12-27T00:56:16.599Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1222,6 +1222,26 @@
           "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz"
         ],
         "description": "Sencha LP token between USDT and Genopets"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HWfBfY3Nb5VxmBfJG5po4nD2iMHdRnjxeDhYds4LRQUM",
+      "symbol": "sDFL-BITXBIT",
+      "decimals": 9,
+      "name": "Sencha DFL-BITXBIT LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/HWfBfY3Nb5VxmBfJG5po4nD2iMHdRnjxeDhYds4LRQUM/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh/DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
+        "underlyingTokens": [
+          "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
+          "DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5"
+        ],
+        "description": "Sencha LP token between DeFi Land and BITXBIT"
       }
     },
     {

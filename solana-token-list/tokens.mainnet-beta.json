@@ -916,6 +916,21 @@
   },
   {
     "chainId": 101,
+    "address": "HWfBfY3Nb5VxmBfJG5po4nD2iMHdRnjxeDhYds4LRQUM",
+    "symbol": "sDFL-BITXBIT",
+    "decimals": 9,
+    "name": "Sencha DFL-BITXBIT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HWfBfY3Nb5VxmBfJG5po4nD2iMHdRnjxeDhYds4LRQUM/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh/DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
+      "description": "Sencha LP token between DeFi Land and BITXBIT"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "HeD4bbYwrsb5g5ieS2QhXGSFAUDWrrVX5cjm29PAqLic",
     "symbol": "sSRM-USDT",
     "decimals": 6,
