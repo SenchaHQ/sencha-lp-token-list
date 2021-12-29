@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-28T00:53:58.746Z",
+  "timestamp": "2021-12-29T00:53:27.164Z",
   "tokens": [
     {
       "chainId": 101,
@@ -222,6 +222,26 @@
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz"
         ],
         "description": "Sencha LP token between USD Coin and FUMoney"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4mh3QMN1PedXQHBeem8YsFxbuomSmkpyKQV9sCh7ZGVX",
+      "symbol": "sscnSOL-aSOL",
+      "decimals": 9,
+      "name": "Sencha scnSOL-aSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4mh3QMN1PedXQHBeem8YsFxbuomSmkpyKQV9sCh7ZGVX/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+        "underlyingTokens": [
+          "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
+        ],
+        "description": "Sencha LP token between Socean staked SOL and aSOL Aggregate Solana Stake Pool"
       }
     },
     {
@@ -1102,6 +1122,26 @@
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
         "description": "Sencha LP token between USD Coin and USDT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FYQ3tQJBX8bGRPjBKEKeNuwwxxSWqpZFiX7kLggdU5QR",
+      "symbol": "sPRT-INU",
+      "decimals": 9,
+      "name": "Sencha PRT-INU LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/FYQ3tQJBX8bGRPjBKEKeNuwwxxSWqpZFiX7kLggdU5QR/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
+        "underlyingTokens": [
+          "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
+          "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko"
+        ],
+        "description": "Sencha LP token between PRT (Parrot Protocol) and Solana INU"
       }
     },
     {
