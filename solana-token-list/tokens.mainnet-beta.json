@@ -781,6 +781,21 @@
   },
   {
     "chainId": 101,
+    "address": "DNffg3BPM2QkyQ22fWcF2L69y299juWxacTcr7nzUqRg",
+    "symbol": "sSBR-RAY-SOL",
+    "decimals": 6,
+    "name": "Sencha SBR-RAY-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNffg3BPM2QkyQ22fWcF2L69y299juWxacTcr7nzUqRg/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip",
+      "description": "Sencha LP token between Saber Protocol Token and Raydium LP Token V4 (RAY-SOL)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "DUmoJAz7pMvam4j24eZo37b47PkrQ3Rh2i8fJ6fT7T6w",
     "symbol": "ssCASH-9-sUSDC-9",
     "decimals": 9,
@@ -1007,16 +1022,16 @@
   {
     "chainId": 101,
     "address": "HpvNhPVbRHVFQQFYEMnnBvoLBpGchPiqDjVmyv98Ua19",
-    "symbol": "sCASH-wLDO",
+    "symbol": "sCASH-LDO",
     "decimals": 8,
-    "name": "Sencha CASH-wLDO LP",
+    "name": "Sencha CASH-LDO LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HpvNhPVbRHVFQQFYEMnnBvoLBpGchPiqDjVmyv98Ua19/icon.png",
     "extensions": {
       "twitter": "https://twitter.com/SenchaDEX",
       "discord": "https://discord.gg/aF9USSwG33",
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
-      "description": "Sencha LP token between Cashio Dollar and Wormhole-wrapped Lido DAO Token"
+      "description": "Sencha LP token between Cashio Dollar and Lido DAO Token (Wormhole)"
     }
   },
   {
