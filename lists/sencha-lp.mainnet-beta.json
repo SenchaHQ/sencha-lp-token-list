@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-30T00:53:29.438Z",
+  "timestamp": "2021-12-31T00:56:02.921Z",
   "tokens": [
     {
       "chainId": 101,
@@ -102,6 +102,26 @@
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
         "description": "Sencha LP token between Apricot and USDT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3sCiVcvTUYNfL5eTi3948DAoZt8hYwRZSdLPZS9CrLoG",
+      "symbol": "sWIPE-LLAMA",
+      "decimals": 9,
+      "name": "Sencha WIPE-LLAMA LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/3sCiVcvTUYNfL5eTi3948DAoZt8hYwRZSdLPZS9CrLoG/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6/9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv",
+        "underlyingTokens": [
+          "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
+          "9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv"
+        ],
+        "description": "Sencha LP token between WipeMyAss and SOLLAMA"
       }
     },
     {
@@ -1382,6 +1402,26 @@
           "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
         ],
         "description": "Sencha LP token between Cashio Dollar and Lido DAO Token (Wormhole)"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J31cZNCCAvZHTK6JaGv5MqPs6HYK96UHhTjkxQhuADHt",
+      "symbol": "sDEGN-USDC",
+      "decimals": 9,
+      "name": "Sencha DEGN-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/J31cZNCCAvZHTK6JaGv5MqPs6HYK96UHhTjkxQhuADHt/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between Degen and USD Coin"
       }
     },
     {
