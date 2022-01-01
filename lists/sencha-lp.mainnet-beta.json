@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2021-12-31T00:56:02.921Z",
+  "timestamp": "2022-01-01T00:56:36.887Z",
   "tokens": [
     {
       "chainId": 101,
@@ -122,6 +122,26 @@
           "9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv"
         ],
         "description": "Sencha LP token between WipeMyAss and SOLLAMA"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "45BX3xr8WMtgiJDy8Dam6REDFKgxxSmJLLk3pqkHfToF",
+      "symbol": "sJUNGLE-USDC",
+      "decimals": 9,
+      "name": "Sencha JUNGLE-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/45BX3xr8WMtgiJDy8Dam6REDFKgxxSmJLLk3pqkHfToF/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/Aogv6j1wWiBAZcqRNN1Y89eozda2ke6rkc4CYy7c4iCi/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "Aogv6j1wWiBAZcqRNN1Y89eozda2ke6rkc4CYy7c4iCi",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between Jungle and USD Coin"
       }
     },
     {
@@ -786,6 +806,46 @@
     },
     {
       "chainId": 101,
+      "address": "ATfPtoJnRtzrRq6ax5xHubMH4opzYuxjzwwihsWvy1To",
+      "symbol": "sWIPE-USDC",
+      "decimals": 9,
+      "name": "Sencha WIPE-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/ATfPtoJnRtzrRq6ax5xHubMH4opzYuxjzwwihsWvy1To/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between WipeMyAss and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AcndU7j1As7HKBEfdgHtiL2nELAdECp46QwPfT8fzLJV",
+      "symbol": "sPRT-yPRT",
+      "decimals": 6,
+      "name": "Sencha PRT-yPRT LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/AcndU7j1As7HKBEfdgHtiL2nELAdECp46QwPfT8fzLJV/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
+        "underlyingTokens": [
+          "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
+          "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM"
+        ],
+        "description": "Sencha LP token between PRT (Parrot Protocol) and yPRT (Parrot Yield Token)"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "AkXTCuqBDdxHuN1jGrYW7pQTQX9RsGNGmN2FcaMjY3M6",
       "symbol": "sUSDC-DXL",
       "decimals": 6,
@@ -1262,6 +1322,26 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "description": "Sencha LP token between Larix and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H7Y9bcGK95c8tnFc2k6jnLJESkkCTukshrDTJMvHjpTp",
+      "symbol": "syPRT-USDC",
+      "decimals": 6,
+      "name": "Sencha yPRT-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/H7Y9bcGK95c8tnFc2k6jnLJESkkCTukshrDTJMvHjpTp/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between yPRT (Parrot Yield Token) and USD Coin"
       }
     },
     {
