@@ -496,6 +496,21 @@
   },
   {
     "chainId": 101,
+    "address": "939g8z5TvbePCKBFrXtPCWAkUrZfunKuHnxCsfUb2wdB",
+    "symbol": "sPRISM-CASH",
+    "decimals": 6,
+    "name": "Sencha PRISM-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/939g8z5TvbePCKBFrXtPCWAkUrZfunKuHnxCsfUb2wdB/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between PRISM and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "9bXeK5G4x3xVRgki8Jq5t46xaHgsGCMbgafKY6ZLB7hd",
     "symbol": "sSDOGE-USDC",
     "decimals": 6,
@@ -942,6 +957,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
       "description": "Sencha LP token between PRT (Parrot Protocol) and Solana INU"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FsKmofcv7bjhUSG7jTsWc8TJq2vs4jUwkXLt5vr31UXD",
+    "symbol": "sSBR-COW",
+    "decimals": 6,
+    "name": "Sencha SBR-COW LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FsKmofcv7bjhUSG7jTsWc8TJq2vs4jUwkXLt5vr31UXD/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+      "description": "Sencha LP token between Saber Protocol Token and Cash Cow"
     }
   },
   {
