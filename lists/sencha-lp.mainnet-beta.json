@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-01-05T00:57:14.312Z",
+  "timestamp": "2022-01-06T01:01:09.445Z",
   "tokens": [
     {
       "chainId": 101,
@@ -522,6 +522,26 @@
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
         ],
         "description": "Sencha LP token between Marinade staked SOL (mSOL) and Lido Staked SOL"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7cVqq6REon7S9mf9PAn9Qq4iQ3kGfguwfnFsCW4bZ7pR",
+      "symbol": "s3F4V-USDC",
+      "decimals": 6,
+      "name": "Sencha 3F4V-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7cVqq6REon7S9mf9PAn9Qq4iQ3kGfguwfnFsCW4bZ7pR/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between 3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J and USD Coin"
       }
     },
     {
