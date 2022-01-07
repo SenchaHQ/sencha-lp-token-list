@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-01-06T01:01:09.445Z",
+  "timestamp": "2022-01-07T01:00:39.064Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1682,6 +1682,26 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "description": "Sencha LP token between Apricot and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Xb6ViPcvMVM4QaU96sk9BtwKRP8f6o9moJUkVYe8auL",
+      "symbol": "sINU-WIPE",
+      "decimals": 9,
+      "name": "Sencha INU-WIPE LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/Xb6ViPcvMVM4QaU96sk9BtwKRP8f6o9moJUkVYe8auL/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
+        "underlyingTokens": [
+          "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
+          "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6"
+        ],
+        "description": "Sencha LP token between Solana INU and WipeMyAss"
       }
     },
     {
