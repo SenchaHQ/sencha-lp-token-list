@@ -931,6 +931,21 @@
   },
   {
     "chainId": 101,
+    "address": "E5xBDxWuVE5jkLuHX83NGAFny5wHHc1N4iYVfY3R6woD",
+    "symbol": "sMARIO-aSOL",
+    "decimals": 9,
+    "name": "Sencha MARIO-aSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E5xBDxWuVE5jkLuHX83NGAFny5wHHc1N4iYVfY3R6woD/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/7rmV64vLfbrbS5rTFvojYWzCVEn8dnJ9RfSRx3nD6C5E/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+      "description": "Sencha LP token between Super Mario and aSOL Aggregate Solana Stake Pool"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "Ec3R2YQnbQ7T4NHiTGsHYG7FB3pCivmiBwGv7ggJUPda",
     "symbol": "sSLIM-USDC",
     "decimals": 6,
