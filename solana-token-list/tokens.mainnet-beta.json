@@ -31,6 +31,21 @@
   },
   {
     "chainId": 101,
+    "address": "31U6DouqY4y924DgyQcg1CFvQhzbKLGx6UMdExEoxwRb",
+    "symbol": "sCASH-PAI",
+    "decimals": 6,
+    "name": "Sencha CASH-PAI LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/31U6DouqY4y924DgyQcg1CFvQhzbKLGx6UMdExEoxwRb/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+      "description": "Sencha LP token between Cashio Dollar and PAI (Parrot USD)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "326kJGVYXqdsdkQmZaKqUeW3ghDkFaG5nguT3nmFM27H",
     "symbol": "sCHICKS-CASH",
     "decimals": 9,
