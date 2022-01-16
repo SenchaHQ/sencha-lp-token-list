@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-01-15T00:54:55.720Z",
+  "timestamp": "2022-01-16T00:59:00.333Z",
   "tokens": [
     {
       "chainId": 101,
@@ -302,6 +302,26 @@
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz"
         ],
         "description": "Sencha LP token between USD Coin and FUMoney"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4jUWmpFtk6LTekCWgqjWNCUPSMXC4pbbfbAL2evNMUZZ",
+      "symbol": "sPOLE-CASH",
+      "decimals": 6,
+      "name": "Sencha POLE-CASH LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4jUWmpFtk6LTekCWgqjWNCUPSMXC4pbbfbAL2evNMUZZ/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+        "underlyingTokens": [
+          "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "description": "Sencha LP token between Pole Aggregator Governance Token and Cashio Dollar"
       }
     },
     {
@@ -1322,6 +1342,26 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "description": "Sencha LP token between Solanium and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EoDfqm3vYXGic9UUFEoxLZcAqJDfw533iUMc68SnXkfY",
+      "symbol": "sPRISM-MBS",
+      "decimals": 6,
+      "name": "Sencha PRISM-MBS LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/EoDfqm3vYXGic9UUFEoxLZcAqJDfw533iUMc68SnXkfY/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A",
+        "underlyingTokens": [
+          "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
+          "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A"
+        ],
+        "description": "Sencha LP token between PRISM and MonkeyBucks"
       }
     },
     {
