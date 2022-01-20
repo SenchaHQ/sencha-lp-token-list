@@ -331,6 +331,21 @@
   },
   {
     "chainId": 101,
+    "address": "5H2rPdGbwCf5ipQvGwqdcfrCqBaD2ourWKvN9sdxybmE",
+    "symbol": "sSUNNY-LUNA",
+    "decimals": 6,
+    "name": "Sencha SUNNY-LUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5H2rPdGbwCf5ipQvGwqdcfrCqBaD2ourWKvN9sdxybmE/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+      "description": "Sencha LP token between Sunny Governance Token and LUNA (Wormhole)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "5P1cZx1aynGSk2F4q2BiAxceKRNA8Usb3u25GLnMtrM1",
     "symbol": "sSRM-USDC",
     "decimals": 6,
@@ -387,6 +402,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "description": "Sencha LP token between UST (Wormhole) and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "6LiTdPQuNLP5G9V2GL8iddgdWJVaXFeD4yWT2H4GjR7u",
+    "symbol": "sCOW-CRP",
+    "decimals": 9,
+    "name": "Sencha COW-CRP LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LiTdPQuNLP5G9V2GL8iddgdWJVaXFeD4yWT2H4GjR7u/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz",
+      "description": "Sencha LP token between Cash Cow and CropperFinance"
     }
   },
   {
@@ -477,6 +507,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between 3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7n8y46aW9ytsQ7yYygMJXv5d9uZNUTAp9z7t5uYoTUxe",
+    "symbol": "sSUNNY-aSOL",
+    "decimals": 9,
+    "name": "Sencha SUNNY-aSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7n8y46aW9ytsQ7yYygMJXv5d9uZNUTAp9z7t5uYoTUxe/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+      "description": "Sencha LP token between Sunny Governance Token and aSOL Aggregate Solana Stake Pool"
     }
   },
   {
@@ -672,6 +717,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
       "description": "Sencha LP token between UST (Wormhole) and FUMoney"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "A647RiwwztA283q5XmTb5iqodbdmHRYJe9QmpFbrmfxq",
+    "symbol": "sUSDC-FIDA",
+    "decimals": 6,
+    "name": "Sencha USDC-FIDA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A647RiwwztA283q5XmTb5iqodbdmHRYJe9QmpFbrmfxq/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+      "description": "Sencha LP token between USD Coin and Bonfida"
     }
   },
   {
@@ -1062,6 +1122,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "description": "Sencha LP token between USD Coin and USDT"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FKrNnnwe4yGL8jhw45gDEvgZuksw8LHFDZqBr11Yrtby",
+    "symbol": "sSUNNY-RIN",
+    "decimals": 9,
+    "name": "Sencha SUNNY-RIN LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FKrNnnwe4yGL8jhw45gDEvgZuksw8LHFDZqBr11Yrtby/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+      "description": "Sencha LP token between Sunny Governance Token and Aldrin"
     }
   },
   {
