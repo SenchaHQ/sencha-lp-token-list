@@ -61,6 +61,21 @@
   },
   {
     "chainId": 101,
+    "address": "31Y4iqWepprNL8BiyjF21SsNxsdrnv7AuW5E2Q6Qjny2",
+    "symbol": "sSRM-CASH",
+    "decimals": 6,
+    "name": "Sencha SRM-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/31Y4iqWepprNL8BiyjF21SsNxsdrnv7AuW5E2Q6Qjny2/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Serum and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "326kJGVYXqdsdkQmZaKqUeW3ghDkFaG5nguT3nmFM27H",
     "symbol": "sCHICKS-CASH",
     "decimals": 9,
@@ -87,6 +102,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Cash Cow and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "3EUpqrA6avLBVsZ8zTQapnUHqEAUJRNAbrhHa6fGSKeV",
+    "symbol": "sWAGMI-SAMO",
+    "decimals": 9,
+    "name": "Sencha WAGMI-SAMO LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EUpqrA6avLBVsZ8zTQapnUHqEAUJRNAbrhHa6fGSKeV/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+      "description": "Sencha LP token between WAGMI and Samoyed Coin"
     }
   },
   {
@@ -361,6 +391,21 @@
   },
   {
     "chainId": 101,
+    "address": "5ZYm9bZbb4jVLKauNk8NLZotePPkpf1gqnTJedMkeMrH",
+    "symbol": "sFXS-UST",
+    "decimals": 8,
+    "name": "Sencha FXS-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5ZYm9bZbb4jVLKauNk8NLZotePPkpf1gqnTJedMkeMrH/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "description": "Sencha LP token between Frax Share (Wormhole) and UST (Wormhole)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "5siSmvBcp8FUSJixcSWSWqBhZqbXhCpcMdrhdPpQoYX9",
     "symbol": "sATLAS-USDC",
     "decimals": 8,
@@ -372,6 +417,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Star Atlas and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "5tREm6sjz9EnxHrbCNGPepoNrNY8VZpaYBs3GzucJggq",
+    "symbol": "s1SOL-CASH",
+    "decimals": 8,
+    "name": "Sencha 1SOL-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5tREm6sjz9EnxHrbCNGPepoNrNY8VZpaYBs3GzucJggq/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between 1sol.io Token and Cashio Dollar"
     }
   },
   {
@@ -436,6 +496,66 @@
   },
   {
     "chainId": 101,
+    "address": "6V2wfnPo41y1bFk5GQbX8GAGa8SU8vrrr2K7Qe3ixP46",
+    "symbol": "sETD-USDC",
+    "decimals": 6,
+    "name": "Sencha ETD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6V2wfnPo41y1bFk5GQbX8GAGa8SU8vrrr2K7Qe3ixP46/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/2qfSePaCqvWkYnYUsYSm1VZYKtbzKYHh7gsnKcyrgspp/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between EntropyDex and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "6nx1H4gcSYp9u3mRgv4EhkTpi2UxcxpJmNzb6mXUpmsR",
+    "symbol": "sPOLE-COW",
+    "decimals": 6,
+    "name": "Sencha POLE-COW LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6nx1H4gcSYp9u3mRgv4EhkTpi2UxcxpJmNzb6mXUpmsR/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+      "description": "Sencha LP token between Pole Aggregator Governance Token and Cash Cow"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "6szDYZaPdbYFGvmdf77xCW3769NDhcCDakRudkupVF9j",
+    "symbol": "sSBR-sunSBR",
+    "decimals": 6,
+    "name": "Sencha SBR-sunSBR LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6szDYZaPdbYFGvmdf77xCW3769NDhcCDakRudkupVF9j/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
+      "description": "Sencha LP token between Saber Protocol Token and sunSBR"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "6xTMSA6zp2nLpNG1zRXySHpoVUQsWbMAd3XHinAKTEAS",
+    "symbol": "sstSOL-LDO",
+    "decimals": 9,
+    "name": "Sencha stSOL-LDO LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6xTMSA6zp2nLpNG1zRXySHpoVUQsWbMAd3XHinAKTEAS/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+      "description": "Sencha LP token between Lido Staked SOL and Lido DAO Token (Wormhole)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "713vrx2zaAH29Y7ufVYkW7fFzFPWzAnWa14aree2ghtr",
     "symbol": "sSOL-3LaN",
     "decimals": 9,
@@ -462,6 +582,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/So11111111111111111111111111111111111111112/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "description": "Sencha LP token between Wrapped SOL and aSOL Aggregate Solana Stake Pool"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7TUfYWVjy6MzfyJ3Nu1EJzo3K2tJRc1HucX8KprQ2gy8",
+    "symbol": "sSPKL-USDC",
+    "decimals": 9,
+    "name": "Sencha SPKL-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7TUfYWVjy6MzfyJ3Nu1EJzo3K2tJRc1HucX8KprQ2gy8/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/31tCNEE6LiL9yW4Bu153Dq4vi2GuorXxCA9pW9aA6ecU/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Spookeletons Token and USD Coin"
     }
   },
   {
@@ -556,6 +691,21 @@
   },
   {
     "chainId": 101,
+    "address": "87gZu6wi4byB1JQ9wqJug4GSWFgwDFXxQyJAHMkkw6hB",
+    "symbol": "sPRT-RIN",
+    "decimals": 9,
+    "name": "Sencha PRT-RIN LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/87gZu6wi4byB1JQ9wqJug4GSWFgwDFXxQyJAHMkkw6hB/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+      "description": "Sencha LP token between PRT (Parrot Protocol) and Aldrin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "88MismC8Nzz1dzBF8EPGEYABEiTRA3mZXB8QijGETKVQ",
     "symbol": "sPOLE-USDC",
     "decimals": 6,
@@ -601,6 +751,21 @@
   },
   {
     "chainId": 101,
+    "address": "8fzbvNd9WAxMPSG7qYNuyFCFoUUuDaJD6BcnBoYNAuks",
+    "symbol": "sIVN-USDC",
+    "decimals": 6,
+    "name": "Sencha IVN-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8fzbvNd9WAxMPSG7qYNuyFCFoUUuDaJD6BcnBoYNAuks/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Investin Protocol and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "8ha5VgJBqGzpTemrwdmzxpd3Xjx4TDAWkziPtnJngn1L",
     "symbol": "sORCA-mSOL/SOL",
     "decimals": 6,
@@ -642,6 +807,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "description": "Sencha LP token between PRISM and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "9T9neSPbLRP6pE2HqRkoB9Y9SnQSfY8p2t9MQWgxuF83",
+    "symbol": "sPIXL-SOLID",
+    "decimals": 9,
+    "name": "Sencha PIXL-SOLID LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9T9neSPbLRP6pE2HqRkoB9Y9SnQSfY8p2t9MQWgxuF83/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/5L2YboFbHAUpBDDJjvDB5M6pu9CW2FRjyDB2asZyvjtE/A5UevXJdphkzXhRtTXj8JyoYYrWnkCLHVS986JHtRLyj",
+      "description": "Sencha LP token between Pixels.so Token and Solid Protocol"
     }
   },
   {
@@ -736,6 +916,21 @@
   },
   {
     "chainId": 101,
+    "address": "A7N5yKoRu2XBUAYMNeAv3iuKN8EqVbxsDzkqh63k4RVM",
+    "symbol": "sUSDT-USDC-CASH",
+    "decimals": 6,
+    "name": "Sencha USDT-USDC-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A7N5yKoRu2XBUAYMNeAv3iuKN8EqVbxsDzkqh63k4RVM/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Saber USDT-USDC LP and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "A9HECM7Yjj8YvR22SfcZcknNRZamk7ZaW9FMEcNNc8Ki",
     "symbol": "sCASH-daoSOL",
     "decimals": 9,
@@ -762,6 +957,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "description": "Sencha LP token between Saber Protocol Token and USDT"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AQe5aQezF3DknZzTWKeLFvaafxh1bqfnurBShuMbbaRb",
+    "symbol": "spHONEY-CASH",
+    "decimals": 6,
+    "name": "Sencha pHONEY-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AQe5aQezF3DknZzTWKeLFvaafxh1bqfnurBShuMbbaRb/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PHnyhLEnsD9SiP9tk9kHHKiCxCTPFnymzPspDqAicMe/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between pre-IDO HONEY and Cashio Dollar"
     }
   },
   {
@@ -826,6 +1036,21 @@
   },
   {
     "chainId": 101,
+    "address": "B8trTUeuXvhuvy4xEubUZFUnBtZ9WSz5hxPWu3FFVbZH",
+    "symbol": "sSONAR-CASH",
+    "decimals": 9,
+    "name": "Sencha SONAR-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B8trTUeuXvhuvy4xEubUZFUnBtZ9WSz5hxPWu3FFVbZH/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Sonar Watch and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "BEfn7GEjr9Vh8mBHVPkntj2tW39zNGFS32fgCDneyXui",
     "symbol": "sALM-USDC",
     "decimals": 6,
@@ -886,6 +1111,21 @@
   },
   {
     "chainId": 101,
+    "address": "Ba5wBEjn1y6zJGVzuUqvbiorazmFzyYdREWHHaoXcadw",
+    "symbol": "sUXD-USDC",
+    "decimals": 6,
+    "name": "Sencha UXD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ba5wBEjn1y6zJGVzuUqvbiorazmFzyYdREWHHaoXcadw/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between UXD Stablecoin and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "BbEM8ck2r54sZghJ8Za2hcx1Vs2NZ32oTuUc7AUxqpjB",
     "symbol": "sGRAPE-ATLAS",
     "decimals": 8,
@@ -931,6 +1171,36 @@
   },
   {
     "chainId": 101,
+    "address": "C4sqNjD4tNTiBffPaBBL3WhuNCP9qmzX58h9mqd7hD3f",
+    "symbol": "sMIX-USDT",
+    "decimals": 6,
+    "name": "Sencha MIX-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C4sqNjD4tNTiBffPaBBL3WhuNCP9qmzX58h9mqd7hD3f/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "description": "Sencha LP token between MIX and USDT"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "CHdknt3bkpaPNSDwEYBAJsXXMLCRMJfPtFbrH7VBPFu",
+    "symbol": "sPORT-USDC",
+    "decimals": 6,
+    "name": "Sencha PORT-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHdknt3bkpaPNSDwEYBAJsXXMLCRMJfPtFbrH7VBPFu/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Port Finance Token and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "CKMV6z8yEkGdKeap6GhkjUHH3K2oEDaWBgJsAcq6TXqs",
     "symbol": "sFUM-USDT",
     "decimals": 9,
@@ -946,6 +1216,21 @@
   },
   {
     "chainId": 101,
+    "address": "CZJnRKMZ9sx7umCrmnJfMya3hRz3y9v9WSxWa8EisdNZ",
+    "symbol": "sFXS-USDC",
+    "decimals": 8,
+    "name": "Sencha FXS-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZJnRKMZ9sx7umCrmnJfMya3hRz3y9v9WSxWa8EisdNZ/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Frax Share (Wormhole) and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "Cfe2sKKsN8UGRJdXLtzVNodEyQnAGQTB4zZMKyw8o1eN",
     "symbol": "sCHEEMS-USDC",
     "decimals": 6,
@@ -957,6 +1242,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Cheems and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "CfyTD7uBxFWeHVPZzFviWXeQVrBtBhegYAYF86hw7QUD",
+    "symbol": "sCOW-OOGI",
+    "decimals": 9,
+    "name": "Sencha COW-OOGI LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CfyTD7uBxFWeHVPZzFviWXeQVrBtBhegYAYF86hw7QUD/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
+      "description": "Sencha LP token between Cash Cow and OOGI"
     }
   },
   {
@@ -991,6 +1291,21 @@
   },
   {
     "chainId": 101,
+    "address": "D5REgnFLkh8mF9aWxjtPpsuaGiRwTZowJ5y9LBL7GUyx",
+    "symbol": "sUSDH-FXS",
+    "decimals": 8,
+    "name": "Sencha USDH-FXS LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D5REgnFLkh8mF9aWxjtPpsuaGiRwTZowJ5y9LBL7GUyx/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+      "description": "Sencha LP token between USDH Hubble Stablecoin and Frax Share (Wormhole)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "DFwa5hqvx8onwfctB1rm4VjybvVghMSU5SDQp84GLtRU",
     "symbol": "sSUNNY-USDC",
     "decimals": 6,
@@ -1002,6 +1317,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "description": "Sencha LP token between Sunny Governance Token and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DJ6XkLgEH93C8R3ANQLbgY8TrJNw7d4ECvnaw9Ty4nxp",
+    "symbol": "sGRAPE-CASH",
+    "decimals": 6,
+    "name": "Sencha GRAPE-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJ6XkLgEH93C8R3ANQLbgY8TrJNw7d4ECvnaw9Ty4nxp/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Grape and Cashio Dollar"
     }
   },
   {
@@ -1066,6 +1396,21 @@
   },
   {
     "chainId": 101,
+    "address": "Dro55qQ85eMz53Q9QtVAFSyRTGh2VZFVXoPPQ2W54Tw8",
+    "symbol": "sCASH-acUSD",
+    "decimals": 9,
+    "name": "Sencha CASH-acUSD LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dro55qQ85eMz53Q9QtVAFSyRTGh2VZFVXoPPQ2W54Tw8/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+      "description": "Sencha LP token between Cashio Dollar and Wrapped CUSD (Allbridge from Celo)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "E5xBDxWuVE5jkLuHX83NGAFny5wHHc1N4iYVfY3R6woD",
     "symbol": "sMARIO-aSOL",
     "decimals": 9,
@@ -1077,6 +1422,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/7rmV64vLfbrbS5rTFvojYWzCVEn8dnJ9RfSRx3nD6C5E/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "description": "Sencha LP token between Super Mario and aSOL Aggregate Solana Stake Pool"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "EBRV4UUZnXWCxbtm9q3iYX4sTJsTUUKrnwaVR2JwoUBR",
+    "symbol": "sPRISM-FAB",
+    "decimals": 9,
+    "name": "Sencha PRISM-FAB LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EBRV4UUZnXWCxbtm9q3iYX4sTJsTUUKrnwaVR2JwoUBR/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+      "description": "Sencha LP token between PRISM and FABRIC"
     }
   },
   {
@@ -1107,6 +1467,51 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A",
       "description": "Sencha LP token between PRISM and MonkeyBucks"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "EqA3GGSjRPGNYpRdmnJ94emsJbpJRN8CobEUZNJEXBZG",
+    "symbol": "sPRT-CASH",
+    "decimals": 6,
+    "name": "Sencha PRT-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EqA3GGSjRPGNYpRdmnJ94emsJbpJRN8CobEUZNJEXBZG/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between PRT (Parrot Protocol) and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "ErEdQ5nx3TSkW1AtdtPh1TatoLsRcYJ4VnapSiporH84",
+    "symbol": "sPPF-USDC",
+    "decimals": 9,
+    "name": "Sencha PPF-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ErEdQ5nx3TSkW1AtdtPh1TatoLsRcYJ4VnapSiporH84/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/DgHF6XLh1qgiyCQMadT9nqXub2XjzmTbbrUYeYXctyDV/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between PepperFire and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "EshD1tvBL5t2hJ1xXJmPGWXRxELkrrtwDmw6n2SM69pe",
+    "symbol": "sTRPY-CASH",
+    "decimals": 6,
+    "name": "Sencha TRPY-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EshD1tvBL5t2hJ1xXJmPGWXRxELkrrtwDmw6n2SM69pe/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/Fse2oFDfbwT89CqtuoFaHCBnGTMFLartDYDjPLZyc7e/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Trippy Leaf and Cashio Dollar"
     }
   },
   {
@@ -1171,6 +1576,36 @@
   },
   {
     "chainId": 101,
+    "address": "FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB",
+    "symbol": "sSLNA-solUST",
+    "decimals": 6,
+    "name": "Sencha SLNA-solUST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+      "description": "Sencha LP token between Soluna Governance Token and solUST"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FjnKmViAHd4J8qHE9M4nnU41h4u4qgbKNQkpjkKtA3HQ",
+    "symbol": "sSBR-USDC",
+    "decimals": 6,
+    "name": "Sencha SBR-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FjnKmViAHd4J8qHE9M4nnU41h4u4qgbKNQkpjkKtA3HQ/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Saber Protocol Token and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "FsKmofcv7bjhUSG7jTsWc8TJq2vs4jUwkXLt5vr31UXD",
     "symbol": "sSBR-COW",
     "decimals": 6,
@@ -1227,6 +1662,21 @@
       "medium": "https://medium.com/senchadex",
       "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
       "description": "Sencha LP token between PRT (Parrot Protocol) and Cash Cow"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "GT5Q3BPUfikdqsrzoNcPNChhMtr7gXKujxxYCyTiRcw9",
+    "symbol": "srSOL-FIS",
+    "decimals": 9,
+    "name": "Sencha rSOL-FIS LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GT5Q3BPUfikdqsrzoNcPNChhMtr7gXKujxxYCyTiRcw9/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/7hUdUTkJLwdcmt3jSEeqx4ep91sm1XwBxMDaJae6bD5D/FG7x94jPcVbtt4pLXWhyr6sU3iWim8JJ2y215X5yowN5",
+      "description": "Sencha LP token between StaFi rSOL and StaFi Token"
     }
   },
   {
