@@ -16,6 +16,21 @@
   },
   {
     "chainId": 101,
+    "address": "2buQG34bTNDZWhRxDVR2EgfEn1KPkHosKBK8aD6ZJoDi",
+    "symbol": "sPESKY-USDC",
+    "decimals": 9,
+    "name": "Sencha PESKY-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2buQG34bTNDZWhRxDVR2EgfEn1KPkHosKBK8aD6ZJoDi/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/nooot44pqeM88dcU8XpbexrmHjK7PapV2qEVnQ9LJ14/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Pesky Coin and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "2jupxWKyecRrpBzB3kXoMSNB6mDiYp5nSy61fkrvmDBE",
     "symbol": "sPORT-CASH",
     "decimals": 6,

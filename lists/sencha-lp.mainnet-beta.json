@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-03-21T02:18:26.259Z",
+  "timestamp": "2022-03-22T01:07:19.573Z",
   "tokens": [
     {
       "chainId": 101,
@@ -22,6 +22,26 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "description": "Sencha LP token between Raydium and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2buQG34bTNDZWhRxDVR2EgfEn1KPkHosKBK8aD6ZJoDi",
+      "symbol": "sPESKY-USDC",
+      "decimals": 9,
+      "name": "Sencha PESKY-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/2buQG34bTNDZWhRxDVR2EgfEn1KPkHosKBK8aD6ZJoDi/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/nooot44pqeM88dcU8XpbexrmHjK7PapV2qEVnQ9LJ14/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "nooot44pqeM88dcU8XpbexrmHjK7PapV2qEVnQ9LJ14",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between Pesky Coin and USD Coin"
       }
     },
     {
