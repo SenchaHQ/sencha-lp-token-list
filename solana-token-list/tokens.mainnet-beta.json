@@ -16,6 +16,21 @@
   },
   {
     "chainId": 101,
+    "address": "2CWR9umtgcW3vjWugYxjd14ppA13rP2hxt7TMLo5TcLB",
+    "symbol": "smSOL-CASH",
+    "decimals": 9,
+    "name": "Sencha mSOL-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2CWR9umtgcW3vjWugYxjd14ppA13rP2hxt7TMLo5TcLB/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "description": "Sencha LP token between Marinade staked SOL (mSOL) and Cashio Dollar"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "2buQG34bTNDZWhRxDVR2EgfEn1KPkHosKBK8aD6ZJoDi",
     "symbol": "sPESKY-USDC",
     "decimals": 9,
