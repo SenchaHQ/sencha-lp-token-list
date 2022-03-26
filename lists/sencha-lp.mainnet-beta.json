@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-03-25T01:04:37.394Z",
+  "timestamp": "2022-03-26T01:04:19.057Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1902,6 +1902,26 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "description": "Sencha LP token between Saber Wrapped CASH (9 decimals) and Saber Wrapped USD Coin (9 decimals)"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Dioc9gWJXjBcPZrG2Wtb7PxnhniywhQYxhrAGhk3SaAv",
+      "symbol": "sxABR-USDC",
+      "decimals": 9,
+      "name": "Sencha xABR-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/Dioc9gWJXjBcPZrG2Wtb7PxnhniywhQYxhrAGhk3SaAv/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/xAx6d1sjmBvpWkVZQEqgUvPmGBNndEXPxYpr3QVp61H/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "xAx6d1sjmBvpWkVZQEqgUvPmGBNndEXPxYpr3QVp61H",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between Allbridge Staking and USD Coin"
       }
     },
     {

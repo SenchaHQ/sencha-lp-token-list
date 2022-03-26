@@ -1426,6 +1426,21 @@
   },
   {
     "chainId": 101,
+    "address": "Dioc9gWJXjBcPZrG2Wtb7PxnhniywhQYxhrAGhk3SaAv",
+    "symbol": "sxABR-USDC",
+    "decimals": 9,
+    "name": "Sencha xABR-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dioc9gWJXjBcPZrG2Wtb7PxnhniywhQYxhrAGhk3SaAv/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/xAx6d1sjmBvpWkVZQEqgUvPmGBNndEXPxYpr3QVp61H/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between Allbridge Staking and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "DrTWeLYqowqCFJFWP3obj3GNdoyG9u32Tejx4esDfntB",
     "symbol": "sscnSOL-USDC",
     "decimals": 9,
