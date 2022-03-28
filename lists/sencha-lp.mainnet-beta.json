@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-03-27T01:11:52.212Z",
+  "timestamp": "2022-03-28T01:18:35.788Z",
   "tokens": [
     {
       "chainId": 101,
@@ -742,6 +742,26 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "description": "Sencha LP token between EntropyDex and USD Coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6jb7VPNqAmXrtAiw1UmGui6hoKFfC1MhAHjo7FYuEz5s",
+      "symbol": "sSRM-UST",
+      "decimals": 6,
+      "name": "Sencha SRM-UST LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/6jb7VPNqAmXrtAiw1UmGui6hoKFfC1MhAHjo7FYuEz5s/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+        "underlyingTokens": [
+          "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        ],
+        "description": "Sencha LP token between Serum and UST (Wormhole)"
       }
     },
     {

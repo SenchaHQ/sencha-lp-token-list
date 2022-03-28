@@ -556,6 +556,21 @@
   },
   {
     "chainId": 101,
+    "address": "6jb7VPNqAmXrtAiw1UmGui6hoKFfC1MhAHjo7FYuEz5s",
+    "symbol": "sSRM-UST",
+    "decimals": 6,
+    "name": "Sencha SRM-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6jb7VPNqAmXrtAiw1UmGui6hoKFfC1MhAHjo7FYuEz5s/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "description": "Sencha LP token between Serum and UST (Wormhole)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "6nx1H4gcSYp9u3mRgv4EhkTpi2UxcxpJmNzb6mXUpmsR",
     "symbol": "sPOLE-COW",
     "decimals": 6,
