@@ -286,6 +286,21 @@
   },
   {
     "chainId": 101,
+    "address": "4ZNwQfRtp1JiqZtMnJPrYxayamZRGJooC4H7XWL58gWT",
+    "symbol": "sUST-FRAX",
+    "decimals": 8,
+    "name": "Sencha UST-FRAX LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ZNwQfRtp1JiqZtMnJPrYxayamZRGJooC4H7XWL58gWT/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "description": "Sencha LP token between UST (Wormhole) and Frax (Wormhole)"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "4iq5xuk6aFhsD9xiQCgzcCFYVGH9g6f9do2brD3mz2mA",
     "symbol": "sUSDC-FUM",
     "decimals": 9,
