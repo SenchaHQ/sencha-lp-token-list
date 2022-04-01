@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-03-31T01:10:11.282Z",
+  "timestamp": "2022-04-01T01:21:00.827Z",
   "tokens": [
     {
       "chainId": 101,
@@ -321,7 +321,7 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "description": "Sencha LP token between Cashio Dollar and LUNA (Wormhole)"
+        "description": "Sencha LP token between Cashio Dollar and LUNA (Portal)"
       }
     },
     {
@@ -401,7 +401,7 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
         ],
-        "description": "Sencha LP token between UST (Wormhole) and Frax (Wormhole)"
+        "description": "Sencha LP token between UST (Portal) and Frax (Portal)"
       }
     },
     {
@@ -581,7 +581,7 @@
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "description": "Sencha LP token between Sunny Governance Token and LUNA (Wormhole)"
+        "description": "Sencha LP token between Sunny Governance Token and LUNA (Portal)"
       }
     },
     {
@@ -621,7 +621,7 @@
           "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "description": "Sencha LP token between Frax Share (Wormhole) and UST (Wormhole)"
+        "description": "Sencha LP token between Frax Share (Portal) and UST (Portal)"
       }
     },
     {
@@ -701,7 +701,7 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "description": "Sencha LP token between UST (Wormhole) and Cashio Dollar"
+        "description": "Sencha LP token between UST (Portal) and Cashio Dollar"
       }
     },
     {
@@ -781,7 +781,7 @@
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "description": "Sencha LP token between Serum and UST (Wormhole)"
+        "description": "Sencha LP token between Serum and UST (Portal)"
       }
     },
     {
@@ -841,7 +841,7 @@
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
         ],
-        "description": "Sencha LP token between Lido Staked SOL and Lido DAO Token (Wormhole)"
+        "description": "Sencha LP token between Lido Staked SOL and Lido DAO Token (Portal)"
       }
     },
     {
@@ -1301,7 +1301,7 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz"
         ],
-        "description": "Sencha LP token between UST (Wormhole) and FUMoney"
+        "description": "Sencha LP token between UST (Portal) and FUMoney"
       }
     },
     {
@@ -1741,7 +1741,7 @@
           "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "description": "Sencha LP token between Frax Share (Wormhole) and USD Coin"
+        "description": "Sencha LP token between Frax Share (Portal) and USD Coin"
       }
     },
     {
@@ -1841,7 +1841,7 @@
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
         ],
-        "description": "Sencha LP token between USDH Hubble Stablecoin and Frax Share (Wormhole)"
+        "description": "Sencha LP token between USDH Hubble Stablecoin and Frax Share (Portal)"
       }
     },
     {
@@ -2541,7 +2541,7 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
         ],
-        "description": "Sencha LP token between Cashio Dollar and Lido DAO Token (Wormhole)"
+        "description": "Sencha LP token between Cashio Dollar and Lido DAO Token (Portal)"
       }
     },
     {
