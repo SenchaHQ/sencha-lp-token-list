@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-04-03T01:13:58.275Z",
+  "timestamp": "2022-04-04T01:18:21.483Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1082,6 +1082,26 @@
           "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
         ],
         "description": "Sencha LP token between Waggle Network and CropperFinance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8TC2nKsX4Ca1SZcjMFWYPyjSDoNE7W4FkD3mjJbMi6fi",
+      "symbol": "sCASH-CONDOMS",
+      "decimals": 9,
+      "name": "Sencha CASH-CONDOMS LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/8TC2nKsX4Ca1SZcjMFWYPyjSDoNE7W4FkD3mjJbMi6fi/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj",
+        "underlyingTokens": [
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj"
+        ],
+        "description": "Sencha LP token between Cashio Dollar and Solana Condoms"
       }
     },
     {
@@ -2322,6 +2342,26 @@
           "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
         ],
         "description": "Sencha LP token between Cashio Dollar and Aldrin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "G6LdEeiUPGDYo3AC1TrJTkL28Lxhc4ZLNzogqzwbmddy",
+      "symbol": "sSUNNY-SUNNY",
+      "decimals": 6,
+      "name": "Sencha SUNNY-SUNNY LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/G6LdEeiUPGDYo3AC1TrJTkL28Lxhc4ZLNzogqzwbmddy/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+        "underlyingTokens": [
+          "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+          "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
+        ],
+        "description": "Sencha LP token between Sunny IOU Token (Quarry Rewards) and Sunny Governance Token"
       }
     },
     {
