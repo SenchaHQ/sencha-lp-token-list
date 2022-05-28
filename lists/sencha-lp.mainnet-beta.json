@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-05-27T01:24:34.482Z",
+  "timestamp": "2022-05-28T01:23:54.647Z",
   "tokens": [
     {
       "chainId": 101,
@@ -2182,6 +2182,26 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "description": "Sencha LP token between Trippy Leaf and Cashio Dollar"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt",
+      "symbol": "sUSDC-FUXD",
+      "decimals": 6,
+      "name": "Sencha USDC-FUXD LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf"
+        ],
+        "description": "Sencha LP token between USD Coin and FUXD"
       }
     },
     {

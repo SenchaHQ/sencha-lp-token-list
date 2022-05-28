@@ -1636,6 +1636,21 @@
   },
   {
     "chainId": 101,
+    "address": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt",
+    "symbol": "sUSDC-FUXD",
+    "decimals": 6,
+    "name": "Sencha USDC-FUXD LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+      "description": "Sencha LP token between USD Coin and FUXD"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "FKZZ9yHwgHSXgwhq1AcWSFiHKGegzoeLeJqDtNSFjAUd",
     "symbol": "sUSDC-USDT",
     "decimals": 6,
