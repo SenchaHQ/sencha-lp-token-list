@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-06-09T01:24:25.591Z",
+  "timestamp": "2022-06-10T01:39:35.434Z",
   "tokens": [
     {
       "chainId": 101,
@@ -422,6 +422,26 @@
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz"
         ],
         "description": "Sencha LP token between USD Coin and FUMoney"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4iyHgfWSwWfQW4tVFtQsCrUuiJqbznUzBQRDTf2unVks",
+      "symbol": "sLFNTY-xLFNTY",
+      "decimals": 6,
+      "name": "Sencha LFNTY-xLFNTY LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4iyHgfWSwWfQW4tVFtQsCrUuiJqbznUzBQRDTf2unVks/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp/xLfNTYy76B8Tiix3hA51Jyvc1kMSFV4sPdR7szTZsRu",
+        "underlyingTokens": [
+          "LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp",
+          "xLfNTYy76B8Tiix3hA51Jyvc1kMSFV4sPdR7szTZsRu"
+        ],
+        "description": "Sencha LP token between Lifinity and xLifinity"
       }
     },
     {
