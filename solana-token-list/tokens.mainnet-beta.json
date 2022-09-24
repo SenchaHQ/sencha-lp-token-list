@@ -76,6 +76,21 @@
   },
   {
     "chainId": 101,
+    "address": "2ppE1PaeQdtKJyD8u4jE8LSPqojz3pH7WyBHHpo7p2Yk",
+    "symbol": "sDPAY-USDT",
+    "decimals": 9,
+    "name": "Sencha DPAY-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ppE1PaeQdtKJyD8u4jE8LSPqojz3pH7WyBHHpo7p2Yk/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/AcZLBqhVjqnd4aoyRQ4fQpsBQnPtwNAFFHEmsedctmUR/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "description": "Sencha LP token between Daupay and USDT"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "31U6DouqY4y924DgyQcg1CFvQhzbKLGx6UMdExEoxwRb",
     "symbol": "sCASH-PAI",
     "decimals": 6,
