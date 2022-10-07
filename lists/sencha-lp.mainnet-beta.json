@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-10-06T01:46:48.094Z",
+  "timestamp": "2022-10-07T01:58:40.011Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1182,6 +1182,26 @@
           "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
         ],
         "description": "Sencha LP token between Waggle Network and CropperFinance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8DB1G3uZo3gSFuAjeLXoCjRq8okEDw8zghyV6htMco8",
+      "symbol": "sMTGX-USDC",
+      "decimals": 6,
+      "name": "Sencha MTGX-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/8DB1G3uZo3gSFuAjeLXoCjRq8okEDw8zghyV6htMco8/icon.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SenchaDEX",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "website": "https://sencha.so/#/pool/MTGX3ppLQGXz6VmHHcgfUurCES2AnRBBFk1uM4wjPjc/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "underlyingTokens": [
+          "MTGX3ppLQGXz6VmHHcgfUurCES2AnRBBFk1uM4wjPjc",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "description": "Sencha LP token between MTGX3ppLQGXz6VmHHcgfUurCES2AnRBBFk1uM4wjPjc and USD Coin"
       }
     },
     {

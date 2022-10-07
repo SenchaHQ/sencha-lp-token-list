@@ -886,6 +886,21 @@
   },
   {
     "chainId": 101,
+    "address": "8DB1G3uZo3gSFuAjeLXoCjRq8okEDw8zghyV6htMco8",
+    "symbol": "sMTGX-USDC",
+    "decimals": 6,
+    "name": "Sencha MTGX-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8DB1G3uZo3gSFuAjeLXoCjRq8okEDw8zghyV6htMco8/icon.png",
+    "extensions": {
+      "twitter": "https://twitter.com/SenchaDEX",
+      "discord": "https://discord.gg/aF9USSwG33",
+      "medium": "https://medium.com/senchadex",
+      "website": "https://sencha.so/#/pool/MTGX3ppLQGXz6VmHHcgfUurCES2AnRBBFk1uM4wjPjc/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "description": "Sencha LP token between MTGX3ppLQGXz6VmHHcgfUurCES2AnRBBFk1uM4wjPjc and USD Coin"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "8Nsbg3QNpLtfDg46f3hSMh1MpjUc9VE9VQ9QraLWDpFG",
     "symbol": "sbSOL-USDC",
     "decimals": 9,
